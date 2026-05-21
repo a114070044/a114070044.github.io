@@ -1,0 +1,60 @@
+.doriscenter{
+    text-align: center;
+    color: chocolate;
+    background-color: rgb(247, 220, 168);
+    border: 2px solid blanchedalmond;
+    padding: 60px;
+    border-radius: 20px 0px 20px 0px;
+}
+.accdds{
+    background-color: rgba(56, 50, 50, 0.616);
+    padding: 40px;
+    border-radius: 30px;
+    color: rgb(255, 255, 255);
+    margin:-10px auto 0 auto;
+    width: 80%;
+    height: 100px;
+    overflow: scroll;
+}
+.youur{
+    text-align: center;
+}
+a.dorislink{
+    color: rgb(158, 68, 68);
+    padding:  0 10px;
+    border-radius: 40px;
+    background-color: blanchedalmond;
+}
+a.dorislink:hover{
+    background-color: rgb(158, 68, 68);
+    color: bisque;
+    padding: 0 10px;
+}
+.dorisbig{
+    font-size: 20px;
+    font-weight: 800;
+}
+.dorisgo{
+    font-size: 50px;
+    text-align: center;
+}
+.sssss{
+    text-align: center;
+}
+section#about{
+    background-color: rgb(211, 210, 208);
+    background-image: url("../assets/img/bg.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+section#contactme{
+    background-color: rgb(211, 210, 208);
+}
+section#about h1{
+    color: rgb(69, 69, 68);
+}
+section#contactme h2{
+    color: rgb(69, 69, 68);
+}
