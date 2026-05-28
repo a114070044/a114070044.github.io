@@ -14,7 +14,7 @@
     margin:-10px auto 0 auto;
     width: 80%;
     height: 100px;
-    overflow: scroll;
+    overflow: hidden;
 }
 .youur{
     text-align: center;
