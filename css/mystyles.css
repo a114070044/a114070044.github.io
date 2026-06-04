@@ -8,13 +8,17 @@
 }
 .accdds{
     background-color: rgba(56, 50, 50, 0.616);
-    padding: 40px;
+    padding: 35px 45px;
     border-radius: 30px;
     color: rgb(255, 255, 255);
     margin:-10px auto 0 auto;
     width: 80%;
-    height: 100px;
+    min-height: 100px;
+    height: auto;
     overflow: hidden;
+    line-height: 1.8;
+    font-size: 20px;
+    text-align: center;
 }
 .youur{
     text-align: center;
